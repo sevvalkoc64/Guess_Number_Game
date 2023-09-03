@@ -1,5 +1,5 @@
 # Guess Number Game
-When you start the game, a random number is generated and you have 5 guesses. You see clues in every guess
+When you start the game, a random number is generated and you have 5 guesses. You see clues in every guess. Have fun!
 
 
 ## 1- At first you need to start the game
