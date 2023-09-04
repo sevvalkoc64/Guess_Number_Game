@@ -10,7 +10,14 @@ When you start the game, a random number is generated and you have 5 guesses. Yo
 
 ![image](https://github.com/sevvalkoc64/Number_Guess_Game/assets/112202225/0bf155d2-2d86-4d20-9663-8b61b487536b)
 
-## 3- When you win the screen will look like this
+## 3- if your guess bigger than the random number, you will get this clue
+![image](https://github.com/sevvalkoc64/Guess_Number_Game/assets/112202225/8d1e6874-5792-4041-864b-e2f0526998f8)
+
+## 4- if your guess smaller than the random number you will get this clue
+![image](https://github.com/sevvalkoc64/Guess_Number_Game/assets/112202225/b01e97c3-cc84-4d76-8bb6-9cd31d0c3952)
+
+
+## 5- When you win the screen will look like this
 
 ![image](https://github.com/sevvalkoc64/Number_Guess_Game/assets/112202225/8ea2cbc8-9d27-47f4-8716-f9d1640ed847)
 
